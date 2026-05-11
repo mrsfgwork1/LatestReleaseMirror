@@ -166,4 +166,13 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_universal.apk) |
+| `v2rayNG_2.0.18-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86.apk) |
+| `v2rayNG_2.0.18-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18-fdroid_x86_64.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_universal.apk) |
+| `v2rayNG_2.0.18_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86.apk) |
+| `v2rayNG_2.0.18_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mrsfgwork1/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.0.18_x86_64.apk) |
 <!-- RELEASES_END -->
